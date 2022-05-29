@@ -1,0 +1,52 @@
+{
+    "Livros": [
+        {
+            "ISBN": "ISBN-0-13-713526-2",
+            "Preço": 85,
+            "Edição": 3,
+            "Titulo": "A First Course in Database Systems",
+            "Autores": [
+                {
+                    "Nome": "Jeffrey",
+                    "Sobrenome": "Ullman"
+                },
+                {
+                    "Nome": "Jennifer",
+                    "Sobrenome": "Widom"
+                }
+            ]
+        },
+        {
+            "ISBN": "ISBN-0-13-815504-6",
+            "Preço": 100,
+            "Nota": "Compre também o livro 'A First Course' e faça um execelente negócio!",
+            "Titulo": "Database Systems: The Complete Livro",
+            "Autores": [
+                {
+                    "Nome": "Hector",
+                    "Sobrenome": "Garcia-Molina"
+                },
+                {
+                    "Nome": "Jeffrey",
+                    "Sobrenome": "Ullman"
+                },
+                {
+                    "Nome": "Jennifer",
+                    "Sobrenome": "Widom"
+                }
+            ]
+        }
+    ],
+    "Revistas": [
+        {
+            "Titulo": "National Geographic",
+            "Mês": "Janeiro",
+            "Ano": 2009
+        },
+        {
+            "Titulo": "Newsweek",
+            "Mês": "Fevereiro",
+            "Ano": 2009
+        }
+    ]
+}
